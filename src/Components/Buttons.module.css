@@ -1,0 +1,29 @@
+.buttonsContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.buttons{
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  background-color: #226fa6;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+
+  /* 3D shadow */
+  box-shadow: 0 6px #1B3C53;
+
+  /* Smooth transitions */
+  transition: all 0.2s ease-in-out;
+}
+
+button:active {
+  /* Pressed effect */
+  transform: translateY(4px);
+  box-shadow: 0 2px #1B3C53;
+}

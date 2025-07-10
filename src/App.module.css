@@ -1,0 +1,24 @@
+.calculator{
+  margin: 100px auto;
+  /* border: 1px solid black; */
+  border-radius: 15px;
+  width: 90%;
+  max-width: 300px;
+  height: 430px;
+  background-color: #9B7EBD;
+  min-width: 300px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+body {
+  background-color:gainsboro;
+  margin: 0;
+  padding: 0;
+}
+
+/* .calculator {
+  background-color: #9b7cb6;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+  padding: 20px;
+  width: 300px;
+} */

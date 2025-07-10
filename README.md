@@ -6,7 +6,6 @@ A responsive and modern calculator web application built using **React** and **V
 
 🌐 [View it on GitHub Pages](https://titiksha95.github.io/Calculator/)
 
-> *(Make sure you've deployed the app first using `gh-pages`.)*
 
 ---
 
